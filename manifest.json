@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "PrettierTTV",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"description": "A prettier twitch theme.",
 	"content_scripts": [
 		{
@@ -10,6 +10,6 @@
 		}
 	],
 	"icons": {
-		"128": "icon.png"
+		"128": "assets/pttvlogotrans128x128.png"
 	}
 }
