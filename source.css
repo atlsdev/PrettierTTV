@@ -1,0 +1,118 @@
+/* Color Theming */
+:root {
+	/* Custom */
+	--atlas-bg1: #0f0e11 !important;
+	--atlas-bg2: #16131C !important;
+	--atlas-primary: #782FFF !important;
+	--atlas-secondary: #6126CD !important;
+	--atlas-accent: #8747FF !important;
+	--atlas-accent2: #965EFF !important;
+
+	/* Overrides */
+	--color-accent: var(--atlas-primary) !important;
+	--color-background-base: var(--atlas-bg1) !important;
+	--color-background-body: var(--atlas-bg1) !important;
+	--color-background-input: rgba(255,255,255,0.1) !important;
+	--color-background-interactable-hover: rgba(0,0,0,0.1) !important;
+	--color-background-interactable-selected: var(--atlas-primary) !important;
+	--color-background-button-primary-default: var(--atlas-primary) !important;
+	--color-background-button-secondary-default: hsl(274deg 5% 50% / 15%) !important;
+	--color-border-input-focus: var(--atlas-primary) !important;
+	--color-border-toggle-checked: var(--atlas-primary) !important;
+	--color-fill-brand: var(--atlas-primary) !important;
+	--color-text-link: var(--atlas-accent) !important;
+	--color-text-link-hover: var(--atlas-accent2) !important;
+	--color-text-toggle-checked-icon: var(--atlas-primary) !important;
+	--color-background-alt: var(--atlas-bg2) !important;
+	--color-background-alt-2: var(--atlas-bg2) !important;
+	--color-border-brand: var(--atlas-primary) !important;
+}
+
+body {
+	background-color: var(--atlas-bg1) !important;
+}
+
+figure[data-a-target=top-nav-avatar] > img {
+	border: 1.5px solid var(--atlas-primary) !important;
+}
+
+[role=dialog] .tw-c-background-base {
+	background-color: var(--atlas-bg1) !important;
+}
+
+.social-media-space .tw-avatar > img {
+    border: 2px solid var(--atlas-primary) !important;
+    box-shadow: 0 0 12px -6px var(--atlas-primary) !important;
+}
+
+.chat-line__message-body--highlighted {
+	border: 4px solid var(--atlas-accent) !important;
+	background-color: var(--atlas-accent) !important;
+}
+
+.chat-room {
+	background-color: var(--atlas-bg2) !important;
+}
+
+.LVSSP, .fgzqki, .lpjkxs, .bVyIBo {
+	display: none !important;
+}
+
+.LVSSP, .fgzqki, .lpjkxs, .bVyIBom {
+	transition: none !important;
+}
+
+.coZOAa {
+	border: 1px solid var(--color-accent) !important;
+	box-shadow: none !important;
+	transition: .25s box-shadow linear !important;
+}
+
+.ScWrapper-uo2e2v-0:hover .coZOAa {
+	transform: none !important;
+	box-shadow: 0 0 15px -6px var(--color-accent) !important;
+}
+
+.navigation-link.active, .navigation-link:hover {
+	color: var(--atlas-accent2) !important;
+}
+
+.social-media-space--content {
+	box-shadow: 0 0 15px -5px var(--atlas-secondary) !important;
+	border: 1px solid var(--atlas-primary) !important;
+}
+
+.channel-info-content .tw-border-t {
+	border-top: none !important;
+}
+
+button[data-a-target=follow-button], button[data-a-target=subscribe-button] {
+	background-color: var(--atlas-primary) !important;
+}
+
+button[data-a-target=follow-button]:hover, button[data-a-target=subscribe-button]:hover {
+	background-color: var(--atlas-accent) !important;
+}
+
+.side-nav__overlay-wrapper {
+	background-color: var(--atlas-bg2) !important;
+}
+
+nav.tw-elevation-1, nav > .tw-elevation-1 {
+	box-shadow: none !important;
+	border-bottom: 2px solid var(--atlas-secondary) !important;
+	background-color: var(--atlas-bg2) !important;
+}
+
+.vertical-selector__wrapper > .tw-c-background-accent {
+	background-color: var(--atlas-primary) !important;
+}
+
+.side-nav-page-info > :first-child > :first-child {
+	box-shadow: none !important;
+	border: 1px solid var(--atlas-secondary) !important;
+}
+
+.navigation-link__indicator-container {
+	display: none !important;
+}
