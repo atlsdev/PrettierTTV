@@ -4,10 +4,13 @@
 ## Download/Install
 You can install with two methods.
   - 1: Download this Repository, drag the folder onto your chrome://extensions page (while having dev mode on).
-  - 2: Add it to your browser using the [Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/).
+  - 2: Add it to your browser using the ~~[Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/)~~*(Pending review, please wait)*.
+
+## Credits
+@Atlas7005 - Coming up with the idea and implementing it.  
+[twitch.tv/skynzor](https://twitch.tv/skynzor) - Supporting the project.
 
 ## License
-
     Copyright (C) 2021  Atlas Development
 
     This program is free software: you can redistribute it and/or modify
