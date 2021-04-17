@@ -7,7 +7,7 @@ You can install with two methods.
   - 2: Add it to your browser using the ~~[Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/)~~*(Pending review, please wait)*.
 
 ## Credits
-@Atlas7005 - Coming up with the idea and implementing it.  
+[Atlas7005](https://github.com/Atlas7005) - Coming up with the idea and implementing it.  
 [twitch.tv/skynzor](https://twitch.tv/skynzor) - Supporting the project.
 
 ## License
