@@ -1,6 +1,9 @@
-# PrettierTTV (master)
+# PrettierTTV
  A simple Browser Extension to make Twitch much prettier!
- *The master branch is basically the development build, it has changes that may or may not be released (stable).*
+
+## Branches
+  - master: The master branch is the "unstable" development branch, this is the branch used when testing features.
+  - stable: The stable branch is the stable public branch, this branch has the same content as you'd get from the browser extension on their respective pages (Chrome Webstore/Firefox Addons Browser)
 
 ## Download/Install
 You can install with two methods.
