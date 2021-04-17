@@ -1,5 +1,6 @@
-# PrettierTTV
+# PrettierTTV (master)
  A simple Chrome/Brave Extension to make Twitch much prettier!
+ *The master branch is basically the development build, it has changes that may or may not be released (stable).*
 
 ## Download/Install
 You can install with two methods.
