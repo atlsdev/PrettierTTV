@@ -16,6 +16,7 @@
 	--color-background-interactable-hover: rgba(0,0,0,0.1) !important;
 	--color-background-interactable-selected: var(--atlas-primary) !important;
 	--color-background-button-primary-default: var(--atlas-primary) !important;
+	--color-background-button-primary-hover: var(--atlas-secondary) !important;
 	--color-background-button-secondary-default: hsl(274deg 5% 50% / 15%) !important;
 	--color-border-input-focus: var(--atlas-primary) !important;
 	--color-border-toggle-checked: var(--atlas-primary) !important;
