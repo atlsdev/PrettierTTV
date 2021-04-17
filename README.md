@@ -1,11 +1,11 @@
 # PrettierTTV (master)
- A simple Chrome/Brave Extension to make Twitch much prettier!
+ A simple Browser Extension to make Twitch much prettier!
  *The master branch is basically the development build, it has changes that may or may not be released (stable).*
 
 ## Download/Install
 You can install with two methods.
-  - 1: Download this Repository, drag the folder onto your chrome://extensions page (while having dev mode on).
-  - 2: Add it to your browser using the ~~[Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/)~~*(Pending review, please wait)*.
+  - 1: Download this Repository, and manually install it. How to: [FireFox](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)/[Chrome](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
+  - 2: Add it to your browser using the ~~[Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/)~~*(Pending review, please wait)* or ~~[FireFox Addons Browser](https://addons.mozilla.org/en-US/firefox/addon/prettierttv/)~~*(Pending review, please wait)*.
 
 ## Credits
 [Atlas7005](https://github.com/Atlas7005) - Coming up with the idea and implementing it.  
