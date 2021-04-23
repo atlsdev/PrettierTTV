@@ -8,7 +8,7 @@
 ## Download/Install
 You can install with two methods.
   - 1: Download this Repository, and manually install it. How to: [FireFox](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)/[Chrome](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
-  - 2: Add it to your browser using the [Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/) or ~~[FireFox Addons Browser](https://addons.mozilla.org/en-US/firefox/addon/prettierttv/)~~*(Pending review, please wait)*.
+  - 2: Add it to your browser using the [Chrome Webstore](https://chrome.google.com/webstore/detail/ffpfabnpkmbhmenappjjincamiomccgb/) or [FireFox Addons Browser](https://addons.mozilla.org/en-US/firefox/addon/prettierttv/).
 
 ## Credits
 [Atlas7005](https://github.com/Atlas7005) - Coming up with the idea and implementing it.  
